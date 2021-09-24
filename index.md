@@ -12,9 +12,11 @@ CNC machines are characterized by high precision and accuracy but require expert
 * we design algorithm to generate path from the images so you dont have to write code for it
 * no matter how much the shape is complex the algorith can genarate a good path 
 * it can be used for different types of CNC machines such as painting and drilling 
-* 
-![path_video](vid_path1.gif)
 
+Here are some excellent results of the project 
+
+![path_video](vid_path1.gif)
+![path_video](vid_path.gif)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

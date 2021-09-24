@@ -13,7 +13,7 @@ CNC machines are characterized by high precision and accuracy but require expert
 * no matter how much the shape is complex the algorith can genarate a good path 
 * it can be used for different types of CNC machines such as painting and drilling 
 * 
-
+![](vidpath1.mp4)
 
 ### Markdown
 

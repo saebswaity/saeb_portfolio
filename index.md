@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+## saeb portfolio
 
 You can use the [editor on GitHub](https://github.com/saebswaity/saeb_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+## Path extraction algorithm from an image for CNC machines
+
+CNC machines are characterized by high precision and accuracy but require experts to work with, in this project we make it easy to handle it 
+
+* we design algorithm to generate path from the images so you dont have to write code for it
+* no matter how much the shape is complex the algorith can genarate a good path 
+* it can be used for different types of CNC machines such as painting and drilling 
+* 
+
 
 ### Markdown
 

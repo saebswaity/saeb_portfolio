@@ -1,8 +1,6 @@
 ## saeb portfolio
 
-You can use the [editor on GitHub](https://github.com/saebswaity/saeb_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a computer engineer, I have an interest in computer vision and machine learning, here are some projects I have worked on I hope you will like it
 
 
 ## Path extraction algorithm from an image for CNC machines
@@ -17,6 +15,12 @@ Here are some excellent results of the project
 
 ![path_video](vid_path1.gif)
 ![path_video](vid_path.gif)
+
+## image colorization using deep learning
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

@@ -18,7 +18,9 @@ Here are some excellent results of the project
 
 ## image colorization using deep learning
 
-![image](https://user-images.githubusercontent.com/86848852/134771004-b5a9094d-4e86-4580-adec-681dbec916fe.png)
+![image1](col.png)
+![image2](col1.png)
+![image3](col2.png)
 
 ## face recognition system
 

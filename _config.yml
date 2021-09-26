@@ -35,3 +35,5 @@ workflows:
       - deploy:
           requires:
             - build
+
+theme: jekyll-theme-minimal
